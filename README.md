@@ -1,26 +1,54 @@
 # 👋 Hi, I'm Muhammad Daniyal
 
-🎯 A passionate Flutter Developer focused on crafting clean, maintainable, and scalable mobile apps.
-🚀 Tech Stack
+🎯 A Software Engineer passionate about building clean, scalable solutions across mobile, backend, and AI automation.
 
-- 🔹 **Flutter (Dart)** — Cross-platform mobile development
-- 🔹 **State Management** — Provider, Riverpod (in progress)
-- 🔹 **Architecture Patterns** — MVVM, Clean Architecture
-- 🔹 **UI/UX** — Figma to Flutter, Custom Widgets, Animations
-- 🔹 **Tools** — Git & GitHub, Postman, VS Code, Android Studio
-- 🔹 **Other Skills** — Firebase Auth, Shared Preferences, REST API integration
+---
 
-🛠 What I Build
+## 🚀 Tech Stack
 
-- ✅ **Reusable Widgets** — Custom buttons, input fields, loaders
-- ✅ **MVVM Apps** — Clean separation of View, ViewModel, and Services
-- ✅ **Responsive UI** — Device-adaptive layout using `flutter_screenutil`
-- ✅ **Authentication Flows** — Login, Signup, Session Management
-- ✅ **State Management** — Logical and reactive UI using Provider
-- ✅ **Animations** — Smooth transitions and user interactions
+### 📱 Mobile Development
+- **Flutter & Dart** — Cross-platform mobile apps
+- **State Management** — Provider, Riverpod
+- **Architecture** — MVVM, Clean Architecture
+- **UI/UX** — Figma to Flutter, Custom Widgets, Animations, `flutter_screenutil`
+- **Mobile Backend** — Firebase Auth, Firestore, Storage, REST APIs, SQLite, Shared Preferences
 
-📫 Let's Connect
+### 🖥️ Backend / .NET
+- **C# & .NET / ASP.NET Core** — Enterprise-grade backend services
+- **Entity Framework** — ORM & data access layers
+- **REST API Design** — Scalable, structured API architecture
+- **SQL** — Relational database integration
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-daniyal-086228178?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 💬 Email: daniyal.dev075@gmail.com
-- 🧑‍💻 Portfolio: _coming soon_
+### 🤖 AI Automation (n8n)
+- **n8n Workflows** — Visual automation pipelines
+- **LLM Integration** — Connecting AI models to real-world processes
+- **Webhook & API Orchestration** — Automating business workflows end-to-end
+
+### 🛠️ Tools & Practices
+- Git & GitHub, Postman, VS Code, Android Studio
+- OOP, DSA, Clean Code principles
+- Python, C++, Java
+
+---
+
+## 🏗️ What I Build
+
+| Area | What |
+|---|---|
+| 📱 **Flutter Apps** | MVVM apps with Firebase, REST APIs, real-time features, offline support |
+| ⚙️ **.NET Services** | RESTful APIs, data layers, service architectures for web & mobile |
+| 🤖 **AI Pipelines** | n8n automations integrating LLMs, webhooks, and third-party APIs |
+| 🎨 **UI Components** | Reusable widgets, responsive layouts, smooth animations, auth flows |
+
+---
+
+## 🎓 Education
+
+🏛️ **BS Software Engineering** — UET Taxila *(Final Semester, 2022–2026)*
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-daniyal-086228178)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyal.dev075@gmail.com)
